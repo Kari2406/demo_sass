@@ -15,6 +15,12 @@
 - Una vez instalado Node.js abrimos nuestra línea de comandos y escribimos:
 
 **npm install -g sass**
+
+#### Compilar sass mediante línea de comandos
+
+- Proporcionamos el comando a su archivo fuente y la ruta de destino
+
+**sass src/main.css public/css/main.css**
                 
 ----
                     
